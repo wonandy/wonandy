@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Andy an I am currently in a bootcamp with Merit America learning Java Development.
+My name is Andy and I am currently in a bootcamp with Merit America learning Java Development.
 
 <!--
 **wonandy/wonandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
