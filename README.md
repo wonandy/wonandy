@@ -1,17 +1,9 @@
 ## Hi there 👋
-My name is Andy and I am currently in a bootcamp with Merit America learning Java Development.
+I'm Andy, a passionate learner currently deepening my skills in Java Development through Merit America's rigorous bootcamp. I’m driven by a love for coding and am excited about the opportunities that Java offers to build scalable, efficient applications.
 
-<!--
-**wonandy/wonandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## OOP Languages
 
-Here are some ideas to get you started:
+- **Java** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **C++** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- 🔭 I’m currently working on ...Java Development
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... Java
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... awong4566@gmail.cmo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
