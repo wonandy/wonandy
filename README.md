@@ -35,8 +35,8 @@
     In addition to the languages and tools mentioned above, I've also worked with a variety of other technologies, including:
 </p>
 <ul>
-    <li><strong>Three.js</strong> - A 3D library that makes WebGL easier to use, helping create rich 3D graphics on the web.</li>
-    <li><strong>Node.js</strong> - A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building scalable network applications.</li>
-    <li><strong>Next.js</strong> - A React framework that provides a hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.</li>
-    <li><strong>Material UI</strong> - A popular React UI framework that provides pre-built components to build responsive, modern web applications.</li>
+    <li><strong>Three.js</strong> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Badge"></li>
+    <li><strong>Node.js</strong> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"></li>
+    <li><strong>Next.js</strong> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"></li>
+    <li><strong>Material UI</strong> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge"></li>
 </ul>
