@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Andy Wong</h1>
+<h1 style="text-align: center;" >Hi there 👋 I'm Andy Wong</h1>
 
 <p>
     I'm a graduate with a BBA in Computer Information Systems (CIS) and currently deepening my skills in Java Development through Merit America's rigorous bootcamp. Additionally, I'm participating in the Headstarter AI fellowship, where I'm honing my abilities to tackle complex challenges using advanced technologies. My passion lies in coding and developing scalable, efficient applications.
