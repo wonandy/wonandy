@@ -31,3 +31,12 @@
     <li><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"></li>
     <li><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"></li>
 </ul>
+<p>
+    In addition to the languages and tools mentioned above, I've also worked with a variety of other technologies, including:
+</p>
+<ul>
+    <li><strong>Three.js</strong> - A 3D library that makes WebGL easier to use, helping create rich 3D graphics on the web.</li>
+    <li><strong>Node.js</strong> - A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building scalable network applications.</li>
+    <li><strong>Next.js</strong> - A React framework that provides a hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.</li>
+    <li><strong>Material UI</strong> - A popular React UI framework that provides pre-built components to build responsive, modern web applications.</li>
+</ul>
