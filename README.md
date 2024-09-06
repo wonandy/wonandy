@@ -41,4 +41,4 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI Badge">
 </ul>
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy's&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
