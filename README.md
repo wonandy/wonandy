@@ -42,3 +42,4 @@
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonandy&layout=compact)
+![wongandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonandy&show_icons=true&theme=radical)
