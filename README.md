@@ -11,7 +11,6 @@ I'm a graduate with a BBA in Computer Information Systems (CIS) and currently de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wonandy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wonandy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andywongg/) 
